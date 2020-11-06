@@ -1,0 +1,7 @@
+{
+  "name": "starterList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
